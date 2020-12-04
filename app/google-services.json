@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270741633314",
+    "firebase_url": "https://ytchannels-firebase.firebaseio.com",
+    "project_id": "ytchannels-firebase",
+    "storage_bucket": "ytchannels-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270741633314:android:e34cedf9cc21b4c8444d7b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ytchannels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270741633314-099pbknun2fk4gq4ih6l6k5u9s89bm6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn90UREeoT2Cdy9gUHDCjQ6FI02EeXDbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270741633314-099pbknun2fk4gq4ih6l6k5u9s89bm6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
